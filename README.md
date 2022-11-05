@@ -727,7 +727,7 @@ songRecs.show()
     
     
 
-## Generate top 10 movie recommendations for a specified set of users
+## Generate top 10 song recommendations for a specified set of users
  Lets take 3 random users from our dataset
 
 
