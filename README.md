@@ -263,7 +263,7 @@ plt.ylabel("Songs played");
 
 
     
-![png](output_21_0.png)
+![png](images/output_21_0.png)
     
 
 
