@@ -1,5 +1,5 @@
 # Song Recommendation with Spark
-A Spark project built incrementally for recommending songs to users based on their history log files. The project has been realized using Spark and Spark MLlib.
+A Spark project built for recommending songs to users based on their song listening history log files. The project has been realized using Spark and Spark MLlib.
 # Song Recommendation
 
 Recommending new songs to users based on user log history
