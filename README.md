@@ -2,7 +2,7 @@
 A Spark project built for recommending songs to users based on their song listening history log files. The project has been realized using Spark and Spark MLlib.
 # Song Recommendation
 
-Recommending new songs to users based on user log history
+Recommending new songs to users based on user log history. The system has been developed using implicit feedback based on user behaviour.
 
 
 ```python
